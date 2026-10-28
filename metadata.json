@@ -1,0 +1,6 @@
+{
+  "name": "Customer & Agent Management System",
+  "description": "Visa, Immigration, Medical, Biometrics, Protector, Ticketing & Document Processing Management System with 3 worksheets, real-time ledger, and financial dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
